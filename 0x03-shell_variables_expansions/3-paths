@@ -1,3 +1,2 @@
 #!/bin/bash
-COUNT=${#DIRS[@]}
-echo "Number of directories in the PATH: $COUNT"
+COUNT=$PATH{#DIRS[@]}
